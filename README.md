@@ -35,6 +35,9 @@ A collection of research on deep learning based models with knowledge-enhanced s
 
 ### Natural Language Understanding
 
+| Pub. | Year | Title                                                                                                | Links                                                                                      | 
+|------|------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| ACL  | 2019 | Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension | [Paper](https://aclanthology.org/P19-1226/) / [Code](https://github.com/tanvinerkar/KTNET) |
 
 #### Domain-Specific 
 
@@ -42,7 +45,5 @@ A collection of research on deep learning based models with knowledge-enhanced s
 |-------|------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | AAAI  | 2020 | K-BERT: Enabling Language Representation with Knowledge Graph                 | [Paper](https://arxiv.org/abs/1909.07606) / [Code](https://github.com/autoliuweijie/K-BERT) |
  | arXiv | 2021 | E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce | [Paper](https://arxiv.org/abs/2009.02835)                                                   |
-
-
 
 ### Question Answering
