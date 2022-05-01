@@ -13,7 +13,7 @@ A collection of research on deep learning based models with knowledge-enhanced s
             - [Commonsense Knowledge](#commonsense Knowledge)
             - [Natural Language Understanding](#natural-language-understanding)
             - [Q&A](#question-answering)
-    
+
 # Survey
 
 | Pub.  | Year | Title                                                                  | Links                                     | 
@@ -35,15 +35,17 @@ A collection of research on deep learning based models with knowledge-enhanced s
 
 ### Natural Language Understanding
 
-| Pub. | Year | Title                                                                                                | Links                                                                                      | 
-|------|------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| ACL  | 2019 | Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension | [Paper](https://aclanthology.org/P19-1226/) / [Code](https://github.com/tanvinerkar/KTNET) |
 
-#### Domain-Specific 
+| Pub. | Year | Title                                                                                                | Links                                                                                            | 
+|------|------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| ACL  | 2019 | Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension | [Paper](https://aclanthology.org/P19-1226/) / [Code](https://github.com/tanvinerkar/KTNET)       |
+| ACL  | 2020 | SenseBERT: Driving Some Sense into BERT                                                              | [Paper](https://arxiv.org/pdf/1908.05646v2.pdf) / [Code](https://github.com/AI21Labs/sense-bert) |
+
+#### Domain-Specific
 
 | Pub.  | Year | Title                                                                         | Links                                                                                       | 
 |-------|------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | AAAI  | 2020 | K-BERT: Enabling Language Representation with Knowledge Graph                 | [Paper](https://arxiv.org/abs/1909.07606) / [Code](https://github.com/autoliuweijie/K-BERT) |
- | arXiv | 2021 | E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce | [Paper](https://arxiv.org/abs/2009.02835)                                                   |
+| arXiv | 2021 | E-BERT: A Phrase and Product Knowledge Enhanced Language Model for E-commerce | [Paper](https://arxiv.org/abs/2009.02835)                                                   |
 
 ### Question Answering
